@@ -69,6 +69,9 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 export PATH=$PATH:$HOME/go/bin
 export DOCKER_HOST=unix://$HOME/.docker/run/docker.sock
 
+# anarchy
+export PATH=$HOME/.local/share/anarchy/bin:$PATH
+
 # Shell integrations
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
