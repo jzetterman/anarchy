@@ -46,7 +46,7 @@ zstyle ':completion:*' menu no
 zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 
 # Aliases
-alias ls='ls --color'
+# alias ls='ls --color'
 alias cd=z
 alias cat=bat
 alias ls=lsd
