@@ -1,6 +1,6 @@
-# Omarchy
+# Anarchy
 
-Omarchy is a beautiful, modern & opinionated Linux distribution by DHH.
+Anarchy is a fork of Omarchy, a beautiful, modern & opinionated Linux distribution by DHH.
 
 Read more at [omarchy.org](https://omarchy.org).
 
